@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate Front-End Web Developer and Computer Science graduate specialising in Advanced Web Development with Big Data.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsgghotra&label=Profile%20views&color=0e75b6&style=flat" alt="gsgghotra" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gsgghotra&&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4" alt="gsgghotra" />
+</p>
 
 - 🔭 I’m currently working on [BillTracker](https://github.com/gsgghotra/BillTracker)
 
