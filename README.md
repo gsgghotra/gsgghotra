@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/GurjeetSingh-portfolio](https://bit.ly/GurjeetSingh-portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-gurjeet.netlify.app/](https://portfolio-gurjeet.netlify.app/)
 
 - 📫 How to reach me **gsgghotra@gmail.com**
 
