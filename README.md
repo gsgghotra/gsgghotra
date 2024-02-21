@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=gsgghotra&&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4" alt="gsgghotra" />
 </p>
 
-- 🔭 I’m currently working on [BillTracker](https://github.com/gsgghotra/BillTracker)
+- 🔭 I’m currently working on [SneakerStreets](https://github.com/gsgghotra/SneakerStreets)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
